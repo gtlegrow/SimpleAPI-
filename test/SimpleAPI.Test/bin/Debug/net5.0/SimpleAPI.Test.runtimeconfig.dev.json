@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\gtlegrow\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\gtlegrow\\.nuget\\packages"
+    ]
+  }
+}
